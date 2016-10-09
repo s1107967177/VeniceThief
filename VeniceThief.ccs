@@ -1,0 +1,26 @@
+<Solution>
+  <PropertyGroup Name="VeniceThief" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="coin.png" PListFile="coin.plist" Name=".coin_PList.Dir">
+          <PlistImageFile Name="coin1.png" Key="coin1.png" />
+          <PlistImageFile Name="coin2.png" Key="coin2.png" />
+          <PlistImageFile Name="coin3.png" Key="coin3.png" />
+          <PlistImageFile Name="coin4.png" Key="coin4.png" />
+          <PlistImageFile Name="coin5.png" Key="coin5.png" />
+          <PlistImageFile Name="coin6.png" Key="coin6.png" />
+        </PlistImageFolder>
+        <Folder Name="TiledMap">
+          <TmxFile Name="GateOne.tmx" />
+        </Folder>
+        <Image Name="arrow.png" />
+        <Image Name="DaYouLun.png" />
+        <Project Name="GateOne.csd" Type="Scene" />
+        <Image Name="KuaiTing.png" />
+        <PlistParticleFile Name="WaterSplash.plist" />
+        <Image Name="XiaoYouLun.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
